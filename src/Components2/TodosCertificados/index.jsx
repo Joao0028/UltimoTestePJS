@@ -5,7 +5,7 @@ import certificados from "./json/Certificados.json"
 export default function TodosCertificados(){
     return <><section className="flex justify-center w-full  py-20 text-cor-preto  dark:text-cor-branco dark:bg-[#121212] ">
         
-        <nav className="container min-[500px]:mt-24">
+        <nav className="container mt-24">
             <p className="subtitulosDeSecoes text-cor-preto dark:text-cor-cinzaSubtituloWhite">Algumas de minhas conquistas.</p>
             <h1 className="titulosDeSecoes -mt-2">Certificados</h1>
 

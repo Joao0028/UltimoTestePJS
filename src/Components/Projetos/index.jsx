@@ -24,7 +24,7 @@ export default function Projetos() {
 
             </nav>
 
-            <a className="max-sm:rounded-sm flex m-auto justify-center cursor-pointer lg:w-[155px] text-[12px] 2xl:text-[18px] sm:text-[14px] lg:text-[16px] w-[120px] sm:w-[120px]  bg-cor-azulClaroPrincipal text-cor-branco py-3 hover:hover:opacity-90 font-bold dark:bg-cor-roxo  mb-24" href="https://github.com/Joao0028?tab=repositories">Ver mais</a>
+            <a className="max-sm:rounded-sm flex m-auto justify-center cursor-pointer lg:w-[155px] text-[12px] 2xl:text-[18px] sm:text-[14px] lg:text-[16px] w-[120px] sm:w-[120px]  bg-cor-azulClaroPrincipal text-cor-branco py-3 hover:hover:opacity-90 font-bold dark:bg-cor-roxo  mb-24" target="_blank" href="https://github.com/Joao0028?tab=repositories">Ver mais</a>
 
         </div>
     </section>
